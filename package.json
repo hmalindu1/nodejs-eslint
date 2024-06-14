@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-eslint",
+  "version": "1.0.0",
+  "description": "Configure ESLint to VSCode",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "ESLint",
+    "VSCode",
+    "Prettier",
+    "Babel"
+  ],
+  "author": "Hashan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
